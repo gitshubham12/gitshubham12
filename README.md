@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shubham kumar username-@gitshubham12
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning hacking on kali linux so please help me !!
-- 📫 How to reach me  conatact gmail-gitshubham764@gmail.com
+- 📫 How to reach me  conatact (gitshubham764@gmail.com)
 - Thank you
 
 <!---
